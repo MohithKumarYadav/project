@@ -10,3 +10,8 @@ history
 cat
 mv
 
+tac 
+rev
+wc
+rm
+touch
