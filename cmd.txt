@@ -4,3 +4,9 @@ ls
 nano
 echo
 
+rmdir
+pwd
+history
+cat
+mv
+
